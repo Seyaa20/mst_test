@@ -1,8 +1,7 @@
 # 🧠 AI Helpdesk Chat — Laravel 11 + OpenRouter
 
 ## 📌 Deskripsi Singkat
-Aplikasi ini merupakan demo **AI Helpdesk Chat** berbasis **Laravel (versi 11+)** yang terintegrasi dengan **OpenRouter API** sebagai LLM provider.  
-Pengguna dapat mengirim pesan ke model AI, dan AI akan memberikan balasan secara real‑time dalam UI chat sederhana.
+Aplikasi ini merupakan demo **AI Helpdesk Chat** berbasis **Laravel (versi 11+)** yang terintegrasi dengan **OpenRouter API** sebagai LLM provider. Pengguna dapat mengirim pesan ke model AI, dan AI akan memberikan balasan secara real‑time dalam UI chat sederhana.
 
 ---
 
@@ -157,3 +156,4 @@ composer require guzzlehttp/guzzle
 
 ## 👤 Author
 **Teresa Fransciscus**
+
